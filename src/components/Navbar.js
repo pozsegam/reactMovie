@@ -27,10 +27,10 @@ export default function () {
         />
       </svg>
 
-      <ul>
-        <li>Trending</li>
-        <li>Watchlist</li>
-      </ul>
+      <div className="menu">
+        <h3>Trending</h3>
+        <h3>Watchlist</h3>
+      </div>
     </div>
   );
 }
